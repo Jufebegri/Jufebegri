@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jufebegri (Juan Felipe Betancurt-Grisales)
 - 👀 I’m interested in in biostatistics, functional ecology, ornithology and conservation
-- 🌱 I’m currently learning functional ecology, daily activity patters and statistic
+- 🌱 I’m currently learning functional ecology, daily activity patters and statistics
 - 💞️ I’m looking to collaborate on ecology groups
 - 📫 To reach me on email jufebegri@gmail.com
 
